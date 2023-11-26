@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hellooishik/DensityLander/issues"
   },
-  "homepage": "https://github.com/hellooishik/DensityLander#readme"
+  "homepage": "https://github.com/hellooishik/DensityLander#readme",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
 }
