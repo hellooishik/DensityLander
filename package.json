@@ -1,0 +1,19 @@
+{
+  "name": "densitylander",
+  "version": "1.1.40",
+  "description": "A lander page project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellooishik/DensityLander.git"
+  },
+  "author": "Oishik Dutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellooishik/DensityLander/issues"
+  },
+  "homepage": "https://github.com/hellooishik/DensityLander#readme"
+}
